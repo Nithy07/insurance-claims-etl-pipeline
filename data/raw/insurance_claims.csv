@@ -1,0 +1,7 @@
+claim_id,policy_id,customer_id,claim_date,claim_amount,claim_status,claim_type
+1001,P10001,C501,2024-01-05,25000,Approved,Health
+1002,P10002,C502,2024-01-08,0,Rejected,Vehicle
+1003,P10003,C503,2024-01-10,18000,Approved,Life
+1004,P10004,C504,2024-01-12,,Pending,Health
+1005,P10005,C505,2024-01-15,42000,Approved,Vehicle
+1006,P10006,C506,2024-01-18,-500,Rejected,Health
